@@ -25,18 +25,14 @@ def get_link_masses(urdf_file):
 
 script_path = os.path.abspath(__file__)
 script_dir = os.path.dirname(script_path)
-print("script_path = %s" % script_dir)
-if len(sys.argv) > 1: # for example: unitree/a1.urdf
-    urdf_file = script_dir + "/robots/" + sys.argv[1]
+# print("script_path = %s" % script_dir)
+if len(sys.argv) > 1: # for example: b1_description/xacro/b1.urdf
+    urdf_file = script_dir +  "/" + sys.argv[1]
 else:
     print("Please provide the URDF file path as a command-line argument.")
     sys.exit(1)
 
-### unitree
-# urdf_file = script_dir + '/urdf/unitree/a1.urdf'
-# urdf_file = script_dir + '/urdf/unitree/aliengo.urdf'
-# urdf_file = script_dir + '/urdf/unitree/aliengoZ1.urdf'
-
+urdf_file = "/home/wang/forest_ws/install/share/centauro_urdf/urdf/centauro.urdf"
 
 
 link_masses = get_link_masses(urdf_file)

@@ -1,0 +1,4 @@
+---- robot h1 info----
+with hand
+Total mass of the robot: 52.0125873 kg
+--------------------------------------

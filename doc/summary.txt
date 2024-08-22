@@ -1,0 +1,53 @@
+
+---- robot centauro info----
+Total mass of the robot: 118.96052343 kg
+--------------------------------------
+
+
+
+Quadrupeds:
+---- robot a1 info----
+Total mass of the robot: 13.741 kg
+--------------------------------------
+
+---- robot aliengo info----
+Total mass of the robot: 24.937 kg
+--------------------------------------
+
+
+---- robot aliengoZ1_description info----
+Total mass of the robot: 30.15796983 kg
+--------------------------------------
+
+---- robot b1_description info----
+Total mass of the robot: 62.58 kg
+--------------------------------------
+
+---- robot b2_description info----
+Total mass of the robot: 74.5803 kg
+--------------------------------------
+
+---- robot b2w_description info----
+Total mass of the robot: 82.419857 kg
+--------------------------------------
+
+---- robot go1 info----
+Total mass of the robot: 13.100528 kg
+--------------------------------------
+
+---- robot go2_description info----
+Total mass of the robot: 15.019 kg
+--------------------------------------
+
+
+
+Humanoids:
+---- robot g1 info----
+Total mass of the robot: 32.23892447 kg
+--------------------------------------
+
+---- robot h1 info----
+with hand
+Total mass of the robot: 52.0125873 kg
+--------------------------------------
+

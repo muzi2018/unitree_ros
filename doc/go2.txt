@@ -1,0 +1,3 @@
+---- robot go2_description info----
+Total mass of the robot: 15.019 kg
+--------------------------------------

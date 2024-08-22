@@ -1,0 +1,3 @@
+---- robot z1_description info----
+Total mass of the robot: 4.41872026 kg
+--------------------------------------

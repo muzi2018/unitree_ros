@@ -1,0 +1,3 @@
+---- robot laikago info----
+Total mass of the robot: 25.433 kg
+--------------------------------------

@@ -1,0 +1,3 @@
+---- robot b2w_description info----
+Total mass of the robot: 82.419857 kg
+--------------------------------------

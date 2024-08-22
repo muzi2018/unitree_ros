@@ -1,0 +1,3 @@
+---- robot b2_description info----
+Total mass of the robot: 74.5803 kg
+--------------------------------------
