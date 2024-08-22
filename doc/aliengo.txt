@@ -1,0 +1,3 @@
+---- robot aliengo info----
+Total mass of the robot: 24.937 kg
+--------------------------------------

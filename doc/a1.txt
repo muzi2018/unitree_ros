@@ -1,0 +1,5 @@
+---- robot a1 info----
+Total mass of the robot: 13.741 kg
+--------------------------------------
+
+
