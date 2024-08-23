@@ -32,7 +32,7 @@ else:
     print("Please provide the URDF file path as a command-line argument.")
     sys.exit(1)
 
-urdf_file = "/home/wang/forest_ws/install/share/centauro_urdf/urdf/centauro.urdf"
+# urdf_file = "/home/wang/forest_ws/install/share/centauro_urdf/urdf/centauro.urdf"
 
 
 link_masses = get_link_masses(urdf_file)
